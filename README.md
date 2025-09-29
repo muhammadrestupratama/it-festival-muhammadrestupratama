@@ -1,48 +1,41 @@
 # 🌐 Website Politeknik Negeri Sriwijaya
-### 🎉 Project Event IT Festival
+### 🎉 Project Event IT Festival Resmi Polsri
 
-<p align="center">
-  <img src="assets/images/preview.png" alt="Preview Website Polsri" width="800"/>
-</p>
+Website ini dibuat untuk **Event IT Festival** yang **diselenggarakan secara resmi oleh Politeknik Negeri Sriwijaya (Polsri)**.  
+Tujuan website ini adalah memperkenalkan Polsri melalui tampilan modern, interaktif, dan responsif.  
 
-Website ini dibuat sebagai karya untuk **Event IT Festival**, dengan tujuan memperkenalkan  
-**Politeknik Negeri Sriwijaya (Polsri)** melalui tampilan modern, informatif, dan responsif.  
+Proyek ini menunjukkan kemampuan saya dalam mengembangkan **website front-end** menggunakan **HTML, CSS, JavaScript, dan Bootstrap**, sekaligus kemampuan untuk **bekerja secara efektif dalam tim**.
 
 ---
 
 ## ✨ Fitur Utama
 - 🏠 **Beranda** – Tampilan awal dengan informasi singkat kampus.  
-- 🏫 **Tentang Kami** – Profil, visi, misi, dan sejarah Polsri.  
-- 📚 **Jurusan & Program Studi** – Daftar jurusan lengkap beserta penjelasannya.  
-- 👥 **Organisasi Mahasiswa** – Informasi UKM, HIMA, dan organisasi kampus.  
-- 🖼️ **Galeri** – Dokumentasi kegiatan kampus & IT Festival.  
+- 🏫 **Tentang Kami** – Profil Polsri, termasuk **Visi & Misi**, sejarah, dan tujuan kampus. 
+- 🏢 **Fasilitas** – Informasi fasilitas kampus yang tersedia untuk mahasiswa.  
+- 👤 **Pimpinan** – Profil pimpinan kampus dan struktur manajemen.  
+- 🏛️ **Struktur Organisasi** – Bagian organisasi mahasiswa, HIMA, dan UKM.  
 - 📞 **Kontak** – Formulir kontak & informasi resmi kampus.  
-- 📱 **Responsive Design** – Tampilan optimal di desktop, tablet, maupun smartphone.  
+- 📱 **Responsive Design** – Optimal di desktop, tablet, dan smartphone.  
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
 - ⚡ **HTML5** – Struktur halaman  
-- 🎨 **CSS3 + Bootstrap** – Styling & layout responsif  
-- ✨ **JavaScript (Vanilla JS)** – Animasi & interaktivitas  
-- 🔠 **Google Fonts + Font Awesome** – Tipografi & ikon modern  
-
----
-
-## 🚀 Preview Website
-👉 [Klik di sini untuk melihat demo](https://your-demo-link.com)  
+- 🎨 **CSS3 + Bootstrap** – Styling modern dan layout responsif  
+- ✨ **JavaScript (Vanilla JS)** – Animasi dan interaktivitas  
+- 🔠 **Google Fonts + Font Awesome** – Tipografi dan ikon modern  
 
 ---
 
 ## 👨‍💻 Tentang Project
-Website ini merupakan karya dari tim **IT Festival** yang bertujuan:  
-- Memperkenalkan **Politeknik Negeri Sriwijaya** melalui media digital.  
-- Menjadi wadah pembelajaran pengembangan **front-end website**.  
-- Menunjukkan keterampilan desain web modern dan responsif.  
+Proyek ini merupakan hasil **kolaborasi dalam tim** dan menunjukkan kemampuan saya:  
+- Membuat website **front-end modern** dan responsif  
+- Menguasai **Bootstrap** untuk desain yang konsisten dan cepat  
+- Bekerja efektif dalam **tim pengembangan web**  
+- Membangun **portofolio profesional** untuk CV dan showcase  
 
 ---
 
 <p align="center">
-  Made with ❤️ for <b>Politeknik Negeri Sriwijaya</b> <br/>
-  by <b>IT Festival Team</b>
+  Made with ❤️ by <b>Muhammad Restu Pratama</b> for <b>Event IT Festival resmi Politeknik Negeri Sriwijaya</b>
 </p>
