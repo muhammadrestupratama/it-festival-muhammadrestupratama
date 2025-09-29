@@ -37,5 +37,5 @@ Proyek ini merupakan hasil **kolaborasi dalam tim** dan menunjukkan kemampuan sa
 ---
 
 <p align="center">
-  Made with ❤️ by <b>Muhammad Restu Pratama</b> for <b>Event IT Festival resmi Politeknik Negeri Sriwijaya</b>
+  Made with ❤️ by <b>Muhammad Restu Pratama</b>
 </p>
