@@ -32,7 +32,6 @@ Proyek ini merupakan hasil **kolaborasi dalam tim** dan menunjukkan kemampuan sa
 - Membuat website **front-end modern** dan responsif  
 - Menguasai **Bootstrap** untuk desain yang konsisten dan cepat  
 - Bekerja efektif dalam **tim pengembangan web**  
-- Membangun **portofolio profesional** untuk CV dan showcase  
 
 ---
 
