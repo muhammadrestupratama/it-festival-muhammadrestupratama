@@ -134,7 +134,7 @@ body {
     text-decoration: none;
     outline: none;
     transition: all 0.4s ease;
-    color: #000000;
+    color: #fff;
 }
 
 .navi > ul > li > a::after {
@@ -1018,4 +1018,5 @@ body {
 }
 /* ======================================================
    🍔 HAMBURGER [END]
+
 ====================================================== */
